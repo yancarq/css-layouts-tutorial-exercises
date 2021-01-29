@@ -1,26 +1,5 @@
 /* your code here */
-.wrapper {
-	margin: 10px 150px;
-}
-h1 {
-	width: 100%;
-}
 
-header {
-	width: 100%;
-}
-
-.wrapper nav {
-	width: 15%;
-	float: left;
-	height: 350px;
-}
-
-.wrapper section {
-	width: 84%;
-	float: right;
-	height: 350px;
-}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
